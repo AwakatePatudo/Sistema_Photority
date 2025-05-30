@@ -1,0 +1,3 @@
+¿Qué buscamos en el proyecto?
+  Debido a la falta de comunicacion que se encuentra en Unipaz con respecto a la administración con los estudiantes y profesores
+  se realiza este proyecto que trata de cerrar esta brecha de comunicacion
